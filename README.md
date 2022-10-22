@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adamiantorno
 - 👀 I’m interested in learning new technologies in software, mechaninca, and electrical engineering
-- 🌱 I’m currently learning fullstack web development with Django, ReactJS, and PostgreSQL
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently most fluent Python and Javscript. With experience with the Djano, React, and ROS framework.
 - 📫 How to reach me: aiatorn@uwaterloo.ca
 
 <!---
